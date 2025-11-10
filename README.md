@@ -1,1 +1,1 @@
-# BloGo--AI-Powered-Blog
+# BloGo-AI-Powered-Blog
