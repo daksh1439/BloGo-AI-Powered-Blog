@@ -1,0 +1,1 @@
+export const blogCategories = ['All', 'Technology', 'Music', 'Startup', 'Literature', 'Lifestyle', 'Finance']
